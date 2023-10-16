@@ -1,0 +1,5 @@
+venv
+.gitattributes
+score-image
+.idea
+__pycache__
